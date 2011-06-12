@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="ProcessPopupWindow" x="1003" y="607" />
+    <location key="OptionsEditor.0.22.1440.874" x="144" y="22" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.22.1440.874" x="427" y="248" />
+    <location key="replaceTextDialog.0.22.1440.874" x="315" y="31" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1440.874" x="450" y="266" />
+    <location key="#Menus_and_Toolbars.0.22.1440.874" x="519" y="229" />
+    <location key="findTextDialog.0.22.1440.874" x="377" y="242" />
+    <size key="ProcessPopupWindow" width="432" height="289" />
+    <size key="OptionsEditor.0.22.1440.874" width="1166" height="814" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="Non-Project Files" value="d6aa51" />
+    <property name="installation.uid" value="2327b346-3a36-4a3c-a7cf-127c2229cfb4" />
+    <property name="SMTestRunner.Splitter.Proportion" value="0.24680851" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="file.colors.enable.tests" value="96b852" />
+    <property name="FileColorsEnabled" value="true" />
+    <property name="file.colors.enable.non.project" value="d6aa51" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="KEYMAP" value="comment&#10;indent&#10;spec&#10;cycl&#10;complete" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="Tests" value="96b852" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+  </component>
+</application>
+

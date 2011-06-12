@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="8">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Guardfile" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="TextMate copy" parent="TextMate">
+  <action id="Back" />
+  <action id="Console.History.Next" />
+  <action id="Console.History.Previous" />
+  <action id="EditorEscape" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta END" />
+    <keyboard-shortcut first-keystroke="meta DOWN" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta HOME" />
+    <keyboard-shortcut first-keystroke="meta UP" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift F1" />
+    <keyboard-shortcut first-keystroke="meta F1" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+  </action>
+  <action id="Forward" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift alt C" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="control alt T" />
+    <keyboard-shortcut first-keystroke="shift control DOWN" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt SLASH" />
+    <keyboard-shortcut first-keystroke="ESCAPE" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="control N" />
+    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="meta N" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="control LEFT" />
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+  </action>
+  <action id="Scratch.OpenScratch">
+    <keyboard-shortcut first-keystroke="alt C" second-keystroke="alt C" />
+    <keyboard-shortcut first-keystroke="shift meta N" />
+  </action>
+  <action id="ShowErrorDescription" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
+
